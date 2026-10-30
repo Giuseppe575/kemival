@@ -1,10 +1,10 @@
-# MOVARISCH - Sito Ufficiale
+# KEMIVAL - Sito Ufficiale
 
-Sito web di vendita per **MOVARISCH**, software professionale per l'analisi automatizzata del rischio chimico.
+Sito web di vendita per **KEMIVAL**, software professionale per l'analisi automatizzata del rischio chimico.
 
 ## 🌐 Sito Live
 
-**URL**: https://giuseppe575.github.io/movarisch-site/
+**URL**: https://giuseppe575.github.io/kemival/
 
 ## 📄 Pagine
 
@@ -17,16 +17,16 @@ Sito web di vendita per **MOVARISCH**, software professionale per l'analisi auto
 
 ## 💳 Pagamento
 
-Integrazione PayPal per pagamenti sicuri (€100 IVA esclusa)
+Integrazione PayPal per pagamenti sicuri (€105 oneri fiscali compresi)
 
 ## 📥 Download
 
-L'installer MOVARISCH è disponibile nelle GitHub Releases:
-https://github.com/Giuseppe575/movarisch-site/releases
+L'installer KEMIVAL è disponibile nelle GitHub Releases:
+https://github.com/Giuseppe575/kemival/releases
 
 ## 🔒 Codice Sorgente
 
-Il codice sorgente dell'applicazione MOVARISCH è proprietario e si trova in un repository privato separato.
+Il codice sorgente dell'applicazione KEMIVAL è proprietario e si trova in un repository privato separato.
 
 ## 📧 Supporto
 

@@ -1,16 +1,16 @@
-# MOVARISCH - Screenshot Richiesti
+# KEMIVAL - Screenshot Richiesti
 
-Questa cartella contiene gli screenshot dell'applicazione MOVARISCH visualizzati nella landing page.
+Questa cartella contiene gli screenshot dell'applicazione KEMIVAL visualizzati nella landing page.
 
 ## 📸 Screenshot da Caricare
 
 ### 1. `screenshot-interface.png`
-**Descrizione**: Screenshot dell'interfaccia principale di MOVARISCH
+**Descrizione**: Screenshot dell'interfaccia principale di KEMIVAL
 
 **Cosa mostrare**:
 - Interfaccia principale con menu e pulsanti
 - Parser SDS da PDF attivo
-- Tabella con risultati MOVARISCH
+- Tabella con risultati KEMIVAL
 - Classificazione del giudizio visibile
 - Pulsanti "Esporta Excel", "Esporta Word"
 
@@ -46,7 +46,7 @@ Questa cartella contiene gli screenshot dell'applicazione MOVARISCH visualizzati
 
 ### Opzione 1: Manuale (GitHub Web)
 
-1. Vai su: https://github.com/Giuseppe575/movarisch-site/tree/main/images
+1. Vai su: https://github.com/Giuseppe575/kemival/tree/main/images
 2. Clicca "Add file" → "Upload files"
 3. Trascina i due screenshot:
    - `screenshot-interface.png`
@@ -56,7 +56,7 @@ Questa cartella contiene gli screenshot dell'applicazione MOVARISCH visualizzati
 ### Opzione 2: Git Locale
 
 ```bash
-cd C:\Users\atisg\movarisch-site\images
+cd C:\Users\atisgkemival-siteimages
 
 # Copia i tuoi screenshot qui con questi nomi:
 # - screenshot-interface.png
@@ -73,7 +73,7 @@ git push origin main
 ## ✅ Verifica
 
 Dopo il caricamento, verifica che le immagini siano visibili su:
-https://giuseppe575.github.io/movarisch-site/#caratteristiche
+https://giuseppe575.github.io/kemival/#caratteristiche
 
 Gli screenshot appariranno nella sezione "L'applicazione in azione" con:
 - 🖥️ Interfaccia Principale (screenshot-interface.png)
